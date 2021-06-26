@@ -17,7 +17,7 @@ and verify the patched contracts before the contract deployment.
 <li> Install the Secueify: https://github.com/eth-sri/securify
 <li> Install the Slither: https://github.com/crytic/slither
 <li> Install the Smartcheck: https://github.com/smartdec/smartcheck
-<li> Install the required packages
+<li> Install the required packages listed in the package-lock.json
 </ol>
 
 ## Input
@@ -30,3 +30,9 @@ and verify the patched contracts before the contract deployment.
 
 The patched contract
 
+## How to use
+1. use Securify, Slither, and Smartcheck to find potential vulnerabilities
+2. combine these three reports
+3. use this combined static verification tools' results and contract as inputs for ContractFix
+
+    node top.js <static verification reports path> <smart contract path> <output path>
