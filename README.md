@@ -34,5 +34,6 @@ The patched contract
 1. use Securify, Slither, and Smartcheck to find potential vulnerabilities
 2. combine these three reports
 3. use this combined static verification tools' results and contract as inputs for ContractFix
-
-    node top.js static-verification-reports-path smart-contract-path output-path
+```bash
+node top.js static-verification-reports-path smart-contract-path output-path
+```
