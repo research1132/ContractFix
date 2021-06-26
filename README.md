@@ -14,8 +14,19 @@ and verify the patched contracts before the contract deployment.
 
 ## Setup
 <ol>
-<li> Install the [Secueify](https://github.com/eth-sri/securify)
-<li> Install the [Slither](https://github.com/crytic/slither)
-<li> Install the [Smartcheck](https://github.com/smartdec/smartcheck)
+<li> Install the Secueify: https://github.com/eth-sri/securify
+<li> Install the Slither: https://github.com/crytic/slither
+<li> Install the Smartcheck: https://github.com/smartdec/smartcheck
+<li> Install the required packages
 </ol>
+
+## Input
+<ol>
+<li> The vulnerable smart contract
+<li> processed the static tools' report
+</ol>
+
+## Output
+
+The patched contract
 
