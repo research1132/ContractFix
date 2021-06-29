@@ -1,0 +1,11 @@
+Type,Detection,Patch,Validation
+Reentrancy,641.61,12.56,595.58
+LockedEther,781.75,0.82,802.73
+MissingValidation,765.61,0.44,468.17
+UnhandledException,84.07,0.33,108.28
+Mixed,855.05,4.62,871.44
+AVG,586.69,3.754,569.24
+,,,
+,,,
+,,,
+, ,,

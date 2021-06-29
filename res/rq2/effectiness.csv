@@ -1,0 +1,6 @@
+Type,Total,Success,Fail,Suc. Rate,Test Trans.,Test Manual
+Reentrancy,23,21,2,0.91,17,73
+MissingInputValidation,131,128,3,0.98,7,68
+UnhandledException,60,60,0,1,5,60
+LockedEther,137,136,1,0.99,0,245
+Total,351,345,6,0.98,29,446

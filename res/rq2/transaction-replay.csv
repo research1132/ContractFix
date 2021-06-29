@@ -1,0 +1,6 @@
+Type,Status Diff,Gas Diff
+Reentrancy,0,53.38
+LockedEther,0,7.36
+MissingValidation,0,46.99
+UnhandledException,0,27.68
+Mixed,0,188.84
