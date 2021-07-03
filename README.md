@@ -37,3 +37,13 @@ The patched contract
 ```bash
 node top.js static-verification-reports-path smart-contract-path output-path
 ```
+
+### Example
+
+In the folder example, we provide some contracts with vulnerabilities, which can be used as the
+input for the ContractFix. We also give the ContractFix patched contract which can
+be used for users to verify the output of the installed ContractFix.
+
+### Result
+
+In the folder res, we upload the original data shown in our submission.
