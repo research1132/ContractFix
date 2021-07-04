@@ -46,4 +46,5 @@ be used for users to verify the output of the installed ContractFix.
 
 ## Result
 
-In the folder res, we upload the original data shown in our submission.
+In the folder res, we upload the original data shown in our submission. The readme in the corresponding res
+folder simply summarize our results. For more detailed explanation, please check our submission.
