@@ -1,0 +1,7 @@
+,Securify,,Slither,,Smartcheck,,Majority,Majority
+,detect,post-process,detect,post-process,detect,post-process,,
+Reentrancy,49,26,461,54,0,0,23,
+Missing,795,131,0,0,0,0,131,
+LockedEther,141,137,110,100,50,43,137,
+UnhandelException,66,60,140,129,44,36,60,
+Total,1051,354,711,283,94,79,351,
